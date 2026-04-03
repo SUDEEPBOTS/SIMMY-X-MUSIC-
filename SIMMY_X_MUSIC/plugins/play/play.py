@@ -55,6 +55,22 @@ async def play_commnd(
     url,
     fplay,
 ):
+    # === SECURITY GUARD (COMMAND INJECTION FIX) ===
+    if url:
+        # Block dangerous bash injection characters including '&'
+        dangerous_chars = re.compile(r"[$|&;`<>\\]|(?:\$\{)") 
+        
+        if dangerous_chars.search(str(url)):
+            return await message.reply_text("Security Alert! Malicious payload detected. Your attempt has been blocked.")
+            
+        # Protocol Validation (Sirf HTTP/HTTPS allow karega, bash/sh commands nahi)
+        try:
+            parsed_url = urlparse(url)
+            if parsed_url.scheme and parsed_url.scheme not in ["http", "https"]:
+                return await message.reply_text("Security Alert! Only standard HTTP/HTTPS links are allowed.")
+        except Exception:
+            return await message.reply_text("Error! Invalid URL format.")
+    # ==============================================
     
     mystic = await message.reply_text(
         _["play_2"].format(channel) if channel else _["play_1"]
