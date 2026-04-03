@@ -1,0 +1,26 @@
+[03-Apr-26 15:03:02 - INFO] - SIMMY_X_MUSIC.core.dir - Directories Updated.
+[03-Apr-26 15:03:02 - INFO] - SIMMY_X_MUSIC.core.git - Git Client Found [VPS DEPLOYER]
+[03-Apr-26 15:03:02 - INFO] - SIMMY_X_MUSIC.misc - 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘 𝗟𝗢𝗔𝗗 𝗕𝗔𝗕𝗬🍫........
+[03-Apr-26 15:03:02 - INFO] - SIMMY_X_MUSIC.core.bot - Starting Bot...
+[03-Apr-26 15:03:02 - INFO] - SIMMY_X_MUSIC.platforms.Youtube.py - API URL loaded successfully
+[03-Apr-26 15:03:04 - INFO] - SIMMY_X_MUSIC.misc - 𝗦𝗨𝗗𝗢 𝗨𝗦𝗘𝗥 𝗗𝗢𝗡𝗘✨🎋.
+[03-Apr-26 15:13:52 - INFO] - SIMMY_X_MUSIC.core.dir - Directories Updated.
+[03-Apr-26 15:13:52 - INFO] - SIMMY_X_MUSIC.core.git - Git Client Found [VPS DEPLOYER]
+[03-Apr-26 15:13:52 - INFO] - SIMMY_X_MUSIC.misc - 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘 𝗟𝗢𝗔𝗗 𝗕𝗔𝗕𝗬🍫........
+[03-Apr-26 15:13:52 - INFO] - SIMMY_X_MUSIC.core.bot - Starting Bot...
+[03-Apr-26 15:13:53 - INFO] - SIMMY_X_MUSIC.platforms.Youtube.py - API URL loaded successfully
+[03-Apr-26 15:13:54 - INFO] - SIMMY_X_MUSIC.misc - 𝗦𝗨𝗗𝗢 𝗨𝗦𝗘𝗥 𝗗𝗢𝗡𝗘✨🎋.
+[03-Apr-26 15:13:56 - INFO] - SIMMY_X_MUSIC.core.bot - Music Bot Started as Test 
+[03-Apr-26 15:13:57 - INFO] - telethon.crypto.aes - libssl detected, it will be used for encryption
+[03-Apr-26 15:13:57 - INFO] - SIMMY_X_MUSIC.plugins - 𝐀𝐥𝐥 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐋𝐨𝐚𝐝𝐞𝐝 𝐁𝐚𝐛𝐲🥳...
+[03-Apr-26 15:13:57 - INFO] - SIMMY_X_MUSIC.core.userbot - Starting Assistants...
+[03-Apr-26 15:14:00 - INFO] - SIMMY_X_MUSIC.core.userbot - Assistant Started as <a href=tg://user?id=8457855985>Rose Asstant</a>
+[03-Apr-26 15:14:00 - INFO] - SIMMY_X_MUSIC.core.call - Starting PyTgCalls Client...
+
+[03-Apr-26 15:14:02 - INFO] - SIMMY_X_MUSIC - ╔═════ஜ۩۞۩ஜ════╗
+  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 𝗔𝗟𝗣𝗛𝗔♨️
+╚═════ஜ۩۞۩ஜ════╝
+[03-Apr-26 15:14:10 - INFO] - SIMMY_X_MUSIC.core.userbot - Stopping Assistants...
+[03-Apr-26 15:14:10 - INFO] - SIMMY_X_MUSIC - ╔═════ஜ۩۞۩ஜ════╗
+  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 𝗔𝗟𝗣𝗛𝗔♨️
+╚═════ஜ۩۞۩ஜ════╝
