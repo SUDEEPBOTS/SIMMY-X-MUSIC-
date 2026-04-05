@@ -10,7 +10,6 @@ telethon==1.33.1
 gitpython
 httpx[http2]==0.28.1
 heroku3
-httpx==0.23.3
 hachoir
 motor==3.3.2
 pillow==9.5.0
