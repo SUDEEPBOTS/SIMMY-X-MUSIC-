@@ -40,8 +40,9 @@ async def init():
     LOGGER("SIMMY_X_MUSIC.plugins").info("𝐀𝐥𝐥 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐋𝐨𝐚𝐝𝐞𝐝 𝐁𝐚𝐛𝐲🥳...")
     await userbot.start()
     await RAUSHAN.start()
-    await RAUSHAN.decorators()
-    LOGGER("SIMMY_X_MUSIC").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 ◄❥͜͡❖ 𝙸 𝙰𝙼 𝙾𝙽𝙻𝙸𝙽𝙴 ❖♨️\n╚═════ஜ۩۞۩ஜ════╝")
+    await RAUSH.decorators()
+    L
+    OGGER("SIMMY_X_MUSIC").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 ◄❥͜͡❖ 𝙸 𝙰𝙼 𝙾𝙽𝙻𝙸𝙽𝙴 ❖♨️\n╚═════ஜ۩۞۩ஜ════╝")
     await idle()
     await app.stop()
     await userbot.stop()
