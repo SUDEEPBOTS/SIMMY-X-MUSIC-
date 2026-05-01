@@ -28,7 +28,7 @@ async def init():
     try:
         users = await get_gbanned()
         for user_id in users:
-            BANNED_USERS.add(user_id)
+            BNED_USERS.add(user_id)
         users = await get_banned_users()
         for user_id in users:
             BANNED_USERS.add(user_id)
