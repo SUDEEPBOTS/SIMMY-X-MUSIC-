@@ -11,7 +11,7 @@ gitpython
 httpx[http2]==0.28.1
 heroku3
 hachoir
-motor==3.3.2
+motor==3.7.1
 pillow==9.5.0
 psutil
 py-tgcalls==0.9.7
