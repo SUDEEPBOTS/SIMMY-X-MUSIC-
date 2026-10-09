@@ -21,7 +21,7 @@ python-dotenv
 pyyaml==6.0.1
 requests
 qrcode
-SafoneAPI==1.0.65
+SafoneAPI==1.0.70
 tgcrypto
 gpytranslate
 MukeshAPI
