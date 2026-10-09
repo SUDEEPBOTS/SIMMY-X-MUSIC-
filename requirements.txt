@@ -4,7 +4,7 @@ asyncio
 beautifulsoup4
 dnspython
 ffmpeg-python
-future==0.18.3
+future==1.0.0
 search_engine_parser
 telethon==1.33.1
 gitpython
