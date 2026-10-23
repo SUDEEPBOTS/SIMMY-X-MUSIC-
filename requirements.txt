@@ -16,7 +16,7 @@ pillow==9.5.0
 psutil
 py-tgcalls==0.9.7
 pykeyboard
-pymongo==4.6.3
+pymongo==4.19.0
 python-dotenv
 pyyaml==6.0.1
 requests
